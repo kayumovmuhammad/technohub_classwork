@@ -2,4 +2,4 @@
 
 Welcome to TechnoHub Homeworks
 
-![alt text](assets/form_image.jpg)
+![alt text](assets/screenshot_1.png)
